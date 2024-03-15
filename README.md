@@ -1,2 +1,2 @@
 # olympic_analysis
-Olympic Data Engineering based on microsoft Azure infrastructure
+Olympic Data Engineering based on microsoft AWS infrastructure
